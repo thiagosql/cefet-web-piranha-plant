@@ -1,0 +1,42 @@
+body{
+    margin: auto 10%;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: limegreen;
+    font-size: 28px;
+    font-family: 'Times New Roman', serif;
+}
+
+h2 {
+    color: limegreen;
+    font-size: 22px;
+    font-family: 'Times New Roman', serif;
+}
+
+#img-armadilha-jaula {
+    border-width: 300px;
+    border: 8px, solid, limegreen;
+    display: block;
+    margin: 0 auto;
+}
+
+#img-armadilha-succao {
+    border-width: 300px;
+    border: 8px, solid, limegreen;
+    display: block;
+    margin: 0 auto;
+}
+
+#voce-sabia {
+    border: 3px, solid, limegreen;
+    background-image: url(../imagens/fundo.png);
+    padding: 10px;
+}
+
+#citacao{
+    margin: auto auto auto 60px;
+}
